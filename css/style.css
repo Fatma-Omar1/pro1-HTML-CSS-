@@ -206,7 +206,7 @@ transition: .5s;
 }
 .featured-works .img-box {
     float: left;
-    margin-top: 50px;
+    margin-top: 20px;
     margin-left: 150px;
     position: relative;
 }
@@ -470,8 +470,8 @@ transition: .5s;
     text-align: center;
 }
 .news .box {
-    padding: 10px;
-    height: 500px;
+    padding: 5px;
+    height: 420px;
 }
 .news .box2::after{
     z-index: -1;
@@ -487,7 +487,7 @@ transition: .5s;
     color: gray;
 }
 .news h3 , .news p {
-    margin: 20px 0;
+    margin: 10px 0;
 }
 .news p {
     opacity: .7;
